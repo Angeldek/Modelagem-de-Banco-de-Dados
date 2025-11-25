@@ -27,6 +27,9 @@ O sistema modelado é uma **locadora de filmes**, com funcionalidades como cadas
 - Integridade referencial
 - Normalização de dados
 
+👨‍🏫 Professor(a) Leticia Toledo Maia Zoby
+
+
 ##👤 Autor
 
 Luisângel Silva Curso: Análise e Desenvolvimento de Sistemas – 1º semestre
